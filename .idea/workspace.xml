@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ca0c4c4-b3ec-4171-a9cd-0f96729f1b03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/StudentDashboard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5ca0c4c4-b3ec-4171-a9cd-0f96729f1b03" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +13,78 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shruti-klu/StudentDashboard.git",
+    "accountId": "1e9c2eb4-4a7c-4009-8f8e-10c23aa5a23a"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000242070077" />
+      <entry key="MS500" value="1.0299770037289144" />
+      <entry key="S2" value="1.4160993674809523" />
+      <entry key="S5" value="1.7044180144823704" />
+      <entry key="S10" value="1.8703924941742422" />
+      <entry key="S30" value="2.736177999492588" />
+      <entry key="S60" value="3.751966295662594" />
+      <entry key="M2" value="4.654330855566602" />
+      <entry key="M5" value="5.396389114059949" />
+      <entry key="M10" value="5.686097751985619" />
+      <entry key="M15" value="5.7879462944243" />
+      <entry key="M30" value="5.892555207407753" />
+      <entry key="H1" value="5.945918319354136" />
+      <entry key="H2" value="5.972868731553014" />
+      <entry key="H4" value="5.986411682416912" />
+      <entry key="D1" value="5.997732123436722" />
+      <entry key="W1" value="5.999675940235467" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9659363518260703" />
+      <entry key="MS500" value="1.0227388802851751" />
+      <entry key="S2" value="1.4132159255168377" />
+      <entry key="S5" value="1.7029438728574628" />
+      <entry key="S10" value="1.8695319079719326" />
+      <entry key="S30" value="2.735454314165451" />
+      <entry key="S60" value="3.7513257968477127" />
+      <entry key="M2" value="4.653884815593114" />
+      <entry key="M5" value="5.3961690133324725" />
+      <entry key="M10" value="5.685979536695845" />
+      <entry key="M15" value="5.7878655684753815" />
+      <entry key="M30" value="5.892513860046033" />
+      <entry key="H1" value="5.945897394491347" />
+      <entry key="H2" value="5.972858205680278" />
+      <entry key="H4" value="5.986406403538832" />
+      <entry key="D1" value="5.9977312414026445" />
+      <entry key="W1" value="5.999675814176115" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8,
@@ -56,10 +126,39 @@
       <option name="presentableId" value="Default" />
       <updated>1795087621072</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1795088134079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1795088134079</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1795088143885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1795088143885</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1795088184783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1795088184783</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
