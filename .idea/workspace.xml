@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ca0c4c4-b3ec-4171-a9cd-0f96729f1b03" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,96 +22,102 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/shruti-klu/StudentDashboard.git",
-    "accountId": "1e9c2eb4-4a7c-4009-8f8e-10c23aa5a23a"
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shruti-klu"
   }
 }]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shruti-klu/StudentDashboard.git&quot;,
+    &quot;accountId&quot;: &quot;1e9c2eb4-4a7c-4009-8f8e-10c23aa5a23a&quot;
+  }
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000242070077" />
-      <entry key="MS500" value="1.0299770037289144" />
-      <entry key="S2" value="1.4160993674809523" />
-      <entry key="S5" value="1.7044180144823704" />
-      <entry key="S10" value="1.8703924941742422" />
-      <entry key="S30" value="2.736177999492588" />
-      <entry key="S60" value="3.751966295662594" />
-      <entry key="M2" value="4.654330855566602" />
-      <entry key="M5" value="5.396389114059949" />
-      <entry key="M10" value="5.686097751985619" />
-      <entry key="M15" value="5.7879462944243" />
-      <entry key="M30" value="5.892555207407753" />
-      <entry key="H1" value="5.945918319354136" />
-      <entry key="H2" value="5.972868731553014" />
-      <entry key="H4" value="5.986411682416912" />
-      <entry key="D1" value="5.997732123436722" />
-      <entry key="W1" value="5.999675940235467" />
+      <entry key="MS100" value="5.774927430485455E-114" />
+      <entry key="MS500" value="2.272820717523193E-23" />
+      <entry key="S2" value="2.864234549348324E-6" />
+      <entry key="S5" value="0.008859693763012147" />
+      <entry key="S10" value="0.13286530060989177" />
+      <entry key="S30" value="1.1439041432637582" />
+      <entry key="S60" value="3.0714649208183147" />
+      <entry key="M2" value="7.258453717238111" />
+      <entry key="M5" value="24.388477622135845" />
+      <entry key="M10" value="49.957595514704245" />
+      <entry key="M15" value="66.35657936408245" />
+      <entry key="M30" value="90.1113527493419" />
+      <entry key="H1" value="105.85720336942362" />
+      <entry key="H2" value="114.95777498517496" />
+      <entry key="H4" value="119.85482373498648" />
+      <entry key="D1" value="124.12467044591291" />
+      <entry key="W1" value="124.87450936924088" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9659363518260703" />
-      <entry key="MS500" value="1.0227388802851751" />
-      <entry key="S2" value="1.4132159255168377" />
-      <entry key="S5" value="1.7029438728574628" />
-      <entry key="S10" value="1.8695319079719326" />
-      <entry key="S30" value="2.735454314165451" />
-      <entry key="S60" value="3.7513257968477127" />
-      <entry key="M2" value="4.653884815593114" />
-      <entry key="M5" value="5.3961690133324725" />
-      <entry key="M10" value="5.685979536695845" />
-      <entry key="M15" value="5.7878655684753815" />
-      <entry key="M30" value="5.892513860046033" />
-      <entry key="H1" value="5.945897394491347" />
-      <entry key="H2" value="5.972858205680278" />
-      <entry key="H4" value="5.986406403538832" />
-      <entry key="D1" value="5.9977312414026445" />
-      <entry key="W1" value="5.999675814176115" />
+      <entry key="MS100" value="6.268995298611499E-108" />
+      <entry key="MS500" value="3.6293358638714077E-22" />
+      <entry key="S2" value="5.61341826097326E-6" />
+      <entry key="S5" value="0.013765718889689927" />
+      <entry key="S10" value="0.20008038220113364" />
+      <entry key="S30" value="1.5415149125538823" />
+      <entry key="S60" value="3.6907204977001733" />
+      <entry key="M2" value="8.030710969056969" />
+      <entry key="M5" value="25.259085856812693" />
+      <entry key="M10" value="50.863964499572056" />
+      <entry key="M15" value="67.28142794966536" />
+      <entry key="M30" value="91.06441438691166" />
+      <entry key="H1" value="106.83059999966132" />
+      <entry key="H2" value="115.94356340773719" />
+      <entry key="H4" value="120.8474726054386" />
+      <entry key="D1" value="125.12340955867175" />
+      <entry key="W1" value="125.87432834629388" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3MK7tc7U2595RXevoU66onDgISL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
